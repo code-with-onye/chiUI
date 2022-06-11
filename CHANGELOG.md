@@ -1,3 +1,18 @@
+# v7.3.12 (Sat Jun 11 2022)
+
+#### ⚠️ Pushed to `main`
+
+- v7.3.11 ([@code-with-onye](https://github.com/code-with-onye))
+- chiUI ([@code-with-onye](https://github.com/code-with-onye))
+- pkg ([@code-with-onye](https://github.com/code-with-onye))
+- chiUI design system ([@code-with-onye](https://github.com/code-with-onye))
+
+#### Authors: 1
+
+- Trust Onyemachi ([@code-with-onye](https://github.com/code-with-onye))
+
+---
+
 # v7.3.8 (Fri May 27 2022)
 
 #### 🐛 Bug Fix
