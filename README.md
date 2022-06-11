@@ -1,4 +1,4 @@
-# truixUI Design System
+# chiUI Design System
 
 ## License
 
